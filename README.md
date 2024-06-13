@@ -19,6 +19,7 @@ The Mobile Education Support System is designed to enable teachers to present ed
 - **PHP & CodeIgniter**: For developing the web interface.
 - **MySQL**: Database management.
 - **RESTful API**: For data transfer between web and mobile platforms.
+- **.NET & C#**: For developing the RESTful API, ensuring robust and scalable backend services.
 
 ## **Screenshots**
 Important screenshots:
