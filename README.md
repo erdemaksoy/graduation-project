@@ -24,17 +24,16 @@ The Mobile Education Support System is designed to enable teachers to present ed
 Important screenshots:
 
 ### **Mobile Application**
-![Screenshot_20240529_230449](https://github.com/erdemaksoy/graduation-project/assets/79666268/8c88042d-c59d-47e2-8de5-7fa2430dc2c3)
-
+<img src="https://github.com/erdemaksoy/graduation-project/assets/79666268/8c88042d-c59d-47e2-8de5-7fa2430dc2c3" alt="Student Login" width="50%"/>
 *Student login screen.*
 
-![Screenshot_20240529_230427](https://github.com/erdemaksoy/graduation-project/assets/79666268/41250f51-7714-4686-9eea-31f794fe6593)
+<img src="https://github.com/erdemaksoy/graduation-project/assets/79666268/41250f51-7714-4686-9eea-31f794fe6593" alt="Test Access" width="50%"/>
 *Students accessing tests using a token.*
 
-![Screenshot_20240529_231358](https://github.com/erdemaksoy/graduation-project/assets/79666268/9587eb07-b58f-430c-baaf-76e8854f8abe)
+<img src="https://github.com/erdemaksoy/graduation-project/assets/79666268/9587eb07-b58f-430c-baaf-76e8854f8abe" alt="Test Questions" width="50%"/>
 *Viewing test questions.*
 
-![Screenshot_20240529_225841](https://github.com/erdemaksoy/graduation-project/assets/79666268/38dbe682-35b4-48e4-8921-0902137b3327)
+<img src="https://github.com/erdemaksoy/graduation-project/assets/79666268/38dbe682-35b4-48e4-8921-0902137b3327" alt="Test Results" width="50%"/>
 *Viewing test results.*
 
 ### **Web Application**
