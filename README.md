@@ -21,6 +21,7 @@ The Mobile Education Support System is designed to enable teachers to present ed
 - **RESTful API**: For data transfer between web and mobile platforms.
 
 ## **Screenshots**
+Important screenshots:
 
 ### **Mobile Application**
 ![Screenshot_20240529_230449](https://github.com/erdemaksoy/graduation-project/assets/79666268/8c88042d-c59d-47e2-8de5-7fa2430dc2c3)
@@ -45,3 +46,9 @@ The Mobile Education Support System is designed to enable teachers to present ed
 
 ![adminusersgösterimi](https://github.com/erdemaksoy/graduation-project/assets/79666268/e8ed7a95-71ac-4c98-b7c3-20c7d6d795b0)
 *Listing and adding users.*
+
+
+For any inquiries or support, please contact:
+
+- **Hayrunnisa YURDAGÜL**: hayrun-nisayur@hotmail.com
+- **Erdem AKSOY**: erdem.aksoy2@hotmail.com
